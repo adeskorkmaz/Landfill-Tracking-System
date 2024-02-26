@@ -9,7 +9,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 // resource bulunamadi hatasi aliniyor
 
 const App = () => {
-  // Sample data for the table
+  
   const data = [
     {
       "ID": "1",
@@ -39,7 +39,7 @@ const App = () => {
       "FAALIYETE_BASLAMA_TARIHI": "8/1/95",
       "IDAREMIZE_DEVIR_TARIHI": "",
       "IDAREMIZE_ISLETMEYE_ALMA_TARIHI": "",
-      "ONGORULEN_KAPANMA_TARIHI": "2027"
+      "ONGORULEN_KAPANMA_TARIHI": "2027" 
     }
   ];
 
