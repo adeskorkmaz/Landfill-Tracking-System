@@ -1,4 +1,4 @@
-# Katı Atık Hede Hödö
+# Katı Atık Düzenli Depolama Tesisleri
 
 ## Paylaşılan api'ler çalışmıyor, bu yuzden veri siteden indirildi elle koda gomuldu
 
